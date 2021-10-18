@@ -11,5 +11,8 @@ Moreover, the MobileNet backbone also makes them less compute-intensive.
 
 This model is also implemented "embedded devices(raspberry pi, USB camera) " to perform real time object detection.
 
+All supporting files and the code is attached in the files above.
+
+
 
 
